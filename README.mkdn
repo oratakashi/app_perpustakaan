@@ -1,0 +1,20 @@
+Selamat Datang di Repositori App Perpustakaan
+========================================
+### Akademi Komunitas Negeri Kajen 
+PDD.Politeknik Negeri Bandung
+
+## System Requitment :
+Requitment      | Minimum Requitment
+---------------:|:-------------------------
+OS              | Windows 7 64Bit
+Database        | Mysql
+Python Version  | 3.4 Stable
+
+## Fitur Aplikasi
+Fitur           | Terdapat di Aplikasi
+---------------:|:-------------------------
+Tambah Buku     | Ya
+Pencarian Buku  | Ya
+Tambah Anggota  | Ya
+
+Disclaimer : Ini hanya untuk memenuhi tugas kuliah, dan tidak memiliki hak cipta
